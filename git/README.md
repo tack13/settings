@@ -26,7 +26,7 @@ fi
 ```
 
 ## Gitのインストール
-Homebrewでインストール
+Homebrewでインストール  
 ※`bash-completion`を使用するため
 
 [Homebrew](https://brew.sh/index_ja.html)
