@@ -19,6 +19,8 @@ $ touch ~/.bashrc
 
 ### パスを通す
 
+`.bash_profile` に追記
+
 ```bash
 if [ -f ~/.bashrc ]; then
     . ~/.bashrc
