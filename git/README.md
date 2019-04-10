@@ -28,6 +28,13 @@ fi
 ```
 
 ## Gitのインストール
+
+**コマンド**
+
+```bash
+$ brew install git
+```
+
 Homebrewでインストール  
 ※`bash-completion`を使用するため
 
@@ -44,7 +51,7 @@ Homebrewでインストール
 **コマンド**
 
 ```bash
-brew bash-completion install
+$ brew install bash-completion
 ```
 
 **`.bashrc`に追加**
